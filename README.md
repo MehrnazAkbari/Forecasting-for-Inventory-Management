@@ -8,5 +8,6 @@ In this file the quantity of transacted containers in all italian inventories ar
 
 ## 2nd File: Prediction by Ordinary Least Squares
 The core of this file is OLS regression. This method is used to find the correlation among transactions in diverse countries, so that the quantities transacted in a country can be achieved through a linear relationship that it has with other countries. The purpose is to forecast any random time-series by using the dependency that it has to other variables of data.
+![](Images/Correlation_EU.png)
 
 ## 3rd File: SARIMA Model vs. Other AR Models (Netherlands)
