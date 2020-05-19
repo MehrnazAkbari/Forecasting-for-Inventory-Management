@@ -1,5 +1,5 @@
 # Forecasting-for-Inventory-Management
-This project aims to predict the quantity of flower containers that will be transacted in the future. The containers are collected from inventories, filled up with flowers by the supplier and distributed among retailers through Retail Distribution Channel (RDC), after selling all flowers, the empty containers are sent back to MyContainer co. by Retail Return Channel as shown below:
+This project aims to predict the quantity of flower containers that will be transacted to and from inventories in the future. The containers are collected from inventories, filled up with flowers by the supplier and distributed among retailers through Retail Distribution Channel (RDC), after selling all flowers, the empty containers are sent back to MyContainer co. by Retail Return Channel as shown below:
 
 ![](Images/Pool%20Management%20System.png)
 
