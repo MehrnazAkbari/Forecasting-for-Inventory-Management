@@ -17,3 +17,6 @@ The core of this file is OLS regression. This method is used to find the correla
 
 ## 3rd: SARIMA Model vs. Other AR Models (Netherlands)
 This file takes into account the seasonality of the historical data of transactions in Netherlands. Seasonal AutoRegressive Integrated Moving Average is a model that takes the same parameters of ARIMA in addition to the seasonal manner of data. The accuracy of the outcome of SARIMA model is then compared with ARMA and ARIMA models.
+
+## FbProphet
+This is a forecasting tool developed by Facebook. The purpose for which I used it, is to compare the result gained by FbProphet and the AR models in other files.
